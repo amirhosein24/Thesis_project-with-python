@@ -1,0 +1,155 @@
+{
+  "masters": [
+    {
+      "id": 403103201,
+      "name": "mohsen",
+      "familyname": "moradi",
+      "lessons": [
+        "pure mathematics",
+        "applied mathematics"
+      ],
+      "password": "moradi123",
+      "capacity_supervisor": 5,
+      "capacity_judge": 10
+    },
+    {
+      "id": 403103202,
+      "name": "amir",
+      "familyname": "alizadeh",
+      "lessons": [
+        "statistics"
+      ],
+      "password": "alizadeh123",
+      "capacity_supervisor": 5,
+      "capacity_judge": 10
+    },
+    {
+      "id": 403103203,
+      "name": "majid",
+      "familyname": "aslani",
+      "lessons": [
+        "physics",
+        "astrophysics"
+      ],
+      "password": "aslani123",
+      "capacity_supervisor": 5,
+      "capacity_judge": 10
+    },
+    {
+      "id": 403103204,
+      "name": "javad",
+      "familyname": "javadi",
+      "lessons": [
+        "pure mathematics",
+        "statistics"
+      ],
+      "password": "javadi123",
+      "capacity_supervisor": 5,
+      "capacity_judge": 10
+    },
+    {
+      "id": 403103205,
+      "name": "reyhaneh",
+      "familyname": "rezvani",
+      "lessons": [
+        "applied mathematics",
+        "physics"
+      ],
+      "password": "rezvani123",
+      "capacity_supervisor": 5,
+      "capacity_judge": 10
+    }
+  ],
+  "students": [
+    {
+      "id": 403103206,
+      "name": "amirhosein",
+      "password": "amirhosein123"
+    },
+    {
+      "id": 403103207,
+      "name": "nima",
+      "password": "nima123"
+    },
+    {
+      "id": 403103208,
+      "name": "sina",
+      "password": "sina123"
+    },
+    {
+      "id": 403103209,
+      "name": "mehdi",
+      "password": "mehdi123"
+    },
+    {
+      "id": 403103210,
+      "name": "javad",
+      "password": "javad123"
+    },
+    {
+      "id": 403103211,
+      "name": "abolfazl",
+      "password": "abolfazl123"
+    },
+    {
+      "id": 403103212,
+      "name": "mohammad",
+      "password": "mohammad123"
+    },
+    {
+      "id": 403103213,
+      "name": "shiba",
+      "password": "shiba123"
+    },
+    {
+      "id": 403103214,
+      "name": "hassan",
+      "password": "hassan123"
+    },
+    {
+      "id": 403103215,
+      "name": "raha",
+      "password": "raha123"
+    },
+    {
+      "id": 403103216,
+      "name": "zahra",
+      "password": "zahra123"
+    },
+    {
+      "id": 403103217,
+      "name": "zeinab",
+      "password": "zeinab123"
+    },
+    {
+      "id": 403103218,
+      "name": "kosar",
+      "password": "kosar123"
+    },
+    {
+      "id": 403103219,
+      "name": "ali",
+      "password": "ali123"
+    },
+    {
+      "id": 403103220,
+      "name": "alireza",
+      "password": "alireza123"
+    },
+    {
+      "id": 403103221,
+      "name": "amirali",
+      "password": "amirali123"
+    },
+    {
+      "id": 403103222,
+      "name": "maryam",
+      "password": "maryam123"
+    },
+    {
+      "id": 403103223,
+      "name": "reza",
+      "password": "reza123"
+    }
+  ]
+}
